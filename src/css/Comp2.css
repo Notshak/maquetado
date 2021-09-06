@@ -1,0 +1,30 @@
+.HERO{
+    background-color: rgb(74, 192, 224);
+    position: absolute;
+    width: 1783px;
+    height: 108px;
+    top: 73px;
+    left: 73px;
+    background-image: url(https://raw.githubusercontent.com/Notshak/images/main/landing%20test.png);
+    background-position-y: -75px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.sale_title{
+    font-weight: 900;
+    position: inherit;
+    top: 11px;
+    left: 25px;
+    font-size: 71px;
+}
+.sale_sub_tittle{
+    font-family: 'Roboto', sans-serif;
+    position: inherit;
+    top: 33%;
+    left: 29%;
+    font-size: 32px;
+}
+.st{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}

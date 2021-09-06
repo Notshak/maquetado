@@ -1,0 +1,107 @@
+.document{
+    display: grid;
+    grid-template-rows: 220px, 220px;
+    grid-template-columns: 220px, 220px;
+}
+.postLanding{
+    background-color: green;
+    height: 6rem;
+}
+.logo{
+    font-size: 39px;
+    transform: rotate(
+-90deg
+);
+    position: absolute;
+    text-align: center;
+    left: -46px;
+    top: 62px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: red;
+    color: white;
+    width: 174px;
+    height: 66px;
+    line-height: 1.56;
+}
+.in{
+    font-family: 'Azeret Mono', monospace;
+}
+.copy{
+    font-size: 5px;
+    transform: rotate(-90deg);
+    position: absolute;
+    text-align: center;
+    left: 46px;
+    top: 17px;
+    color: white;
+}
+.links{
+    position: relative;
+    left: 73.5px;
+    top: 8px;
+    background-color: rgb(248, 248, 248);
+    width: 1783px;
+    height: 86%;
+    text-align: start;
+    line-height: 3.8;
+}
+.nav_1{
+    position: relative;
+    left: 24px;
+}
+.nav_2{
+    position: relative;
+    left: 44px;
+}
+.nav_3{
+    position: relative;
+    left: 64px;
+}
+.nav_4{
+    position: relative;
+    left: 84px;
+}
+.nav_e{
+    font-size: 20px;
+    position: relative;
+    top: -5px;
+}
+.search_button {
+    position: absolute;
+    top: 17px;
+    left: 855px;
+    border-color: #f0ffff00;
+    background-color: white;
+}
+.search_img {
+    width: 20px;
+    height: 20px;
+    border: rgba(255, 0, 0, 0);
+}
+.search_input{
+    padding: 13px;
+    position: relative;
+    left: 502px;
+    top: -76px;
+    width: 367px;
+    border-radius: 0px 7px 7px 7px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(183 183 183);
+}
+.search_form{
+    width: 0px;
+    height: 0px;
+}
+.nav_5{
+    position: absolute;
+    top: -6px;
+    left: 1384px;
+    color: rgb(123 123 123);
+}
+.nav_6{
+    position: absolute;
+    top: -7px;
+    left: 1635px;
+    color: rgb(123 123 123);
+}

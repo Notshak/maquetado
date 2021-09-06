@@ -1,0 +1,21 @@
+.banner{
+    position: absolute;
+    top: 323px;
+    left: 64px;
+    width: 1750px;
+    height: 64px;
+    background-color: rgb(62, 141, 221);
+    background-image: url(https://raw.githubusercontent.com/Notshak/images/main/banner.png);
+    background-position-y: 22%;
+    background-size: 107%;
+    background-repeat: no-repeat;
+    background-position-x: 48%;
+}
+.banner_tittle{
+    position: inherit;
+    left: 37%;
+    top: 31%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 22px;
+}

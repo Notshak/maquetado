@@ -1,0 +1,125 @@
+.items{
+    text-align: center;
+    position: absolute;
+    top: 409px;
+    /* background-color: #49f573; */
+    width: 1648px;
+    left: 119px;
+    height: 96px;
+    display: grid;
+    grid-template-columns: 410px 410px 410px 410px;
+    /* grid-column-gap: 207px; */
+}
+.item_card{
+    height: 600px;
+    display: grid;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.item_title{
+    color: rgb(62, 141, 221);
+    font-size: 28px;
+}
+.items_buy{
+    text-decoration: none;
+    background-color: rgb(62, 141, 221);
+    border-color: rgb(62, 141, 221);
+    border-style: solid;
+    border-radius: 3px;
+    text-align: center;
+    height: 34px;
+    line-height: 2.2;
+    color: white;
+}
+.item_shipping{
+    color: #ff7d21;
+    font-size: 14px;
+}
+.item_saved{
+    color: #757272;
+    font-size: 16px;
+}
+.item_price{
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+.item_subtitle{
+    color: #b1afaf;
+    font-size: 16px;
+}
+.item_sale{
+    font-size: 17px;
+}
+.item_cat{
+    line-height: 28px;
+    height: 26px;
+    font-size: 18px;
+    color: white;
+    background-image: url(https://raw.githubusercontent.com/Notshak/images/main/triangulo.png);
+    background-size: 941%;
+    background-repeat: no-repeat;
+    background-position-x: 35.5%;
+    background-position-y: 28.99%;
+}
+.item_img_place{
+    height: 320px;
+}
+.item_img{
+    position: absolute;
+}
+.im_0{
+    left: -2.5%;
+    top: 58%;
+}
+.im_1{
+    left: 26.5%;
+    top: 40%;
+}
+.im_2{
+    left: 49.5%;
+    top: 40%;
+}
+.im_3{
+    left: 74%;
+    top: 40%;
+}
+.item_comp_cat{
+    color: #b7b5b5;
+    text-align: initial;
+    font-family: 'Roboto', sans-serif;
+}
+.item_comp_name{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-align: initial;
+}
+.separador{
+    height: 40px;
+}
+.sep_2{
+    height: 5px;
+}
+.sep_3{
+    height: 20px;
+    border-bottom: solid;
+    border-color: #dcdbdb;
+    border-width: 1px;
+}
+.sep_4{
+    height: 20px;
+}
+.item_cfull{
+    font-family: 'Roboto', sans-serif;
+    color: #5d97ff;
+    text-align: initial;
+    font-size: 17px;
+    background-color: white;
+    position: relative;
+    top: -113%;
+}
+.item_stars{
+    position: relative;
+    top: 3px;
+    left: -6px;
+}
